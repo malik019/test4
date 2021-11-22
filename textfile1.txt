@@ -1,0 +1,10 @@
+Hello world!
+
+Bump!
+<<<<<<< Updated upstream
+Bump!
+
+hello iederen
+=======
+Bump!
+>>>>>>> Stashed changes
